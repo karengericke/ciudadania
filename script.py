@@ -14,7 +14,7 @@ import random
 url = 'https://prenotami.esteri.it/Services'
 
 # Ruta local donde se almacenarán las capturas
-screenshot_path = r'C:\Users\Kmger\OneDrive\Bureau\karenina\ciudadania\capturas'
+screenshot_path = r'YOUR_PATH'
 
 # Credenciales, cambiar por tus credenciales personales
 username = "YOUR_USER"
